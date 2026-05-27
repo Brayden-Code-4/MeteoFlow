@@ -1,0 +1,8 @@
+{
+  "name": "MeteoFlow",
+  "description": "Application météo moderne et fluide avec verre flouté (glassmorphism), recherche assistée, géolocalisation en temps réel et prévisions détaillées sur 5 jours.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
